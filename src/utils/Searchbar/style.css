@@ -8,6 +8,6 @@
     border: none;
 }
 
-input:focus {
+.search:focus {
     border: none;
 }
