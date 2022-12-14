@@ -1,0 +1,13 @@
+.search {
+    border-radius: 20px;
+    width: 40%;
+    height: 30px;
+    padding-left: 40px;
+    margin-left: 100px;
+    background-color: rgb(124, 170, 255);
+    border: none;
+}
+
+input:focus {
+    border: none;
+}
